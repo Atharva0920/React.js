@@ -1,5 +1,5 @@
 #heading{
-    color: rgb(6, 38, 68);
+    color:  rgb(0, 0, 0);
     display:flex;
     justify-content: center;
     font-size:100px;
@@ -7,12 +7,21 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight:600px;
 }
+.ad{
+    color: rgb(0, 0, 0);
+    display:flex;
+    justify-content: center;
+    margin: 40px 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:600px;
+}
+#sub-heading, #new-heading{
+    font-size: 50px;
+}
 
-
-*{
-    background-image: linear-gradient(45deg, rgb(199, 199, 245), rgb(179, 240, 245));
-    background-size: auto;
+body{
+    background-image: linear-gradient(95deg, rgb(188, 232, 235), rgb(217, 245, 248),rgb(188, 232, 235));
     
-  
 
 }
+
